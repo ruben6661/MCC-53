@@ -12,6 +12,11 @@ namespace Genap {
 			for (i = 1; i <= array.Length; i++){
 				if(i % 2 == 0){
 					Console.WriteLine(i);
+					
+				}
+				else
+				{
+					Console.WriteLine("Ganjil");
 				}
 			}
 		}
