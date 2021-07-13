@@ -33,4 +33,5 @@ public class Program
 		 Console.WriteLine("Tidak ada bilangan prima yang bisa dituliskan");
 		 Console.ReadLine();
 		 }
+// 	edited by rory
 }
