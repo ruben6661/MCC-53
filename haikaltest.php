@@ -1,3 +1,4 @@
 <?php
-echo "corona tai"
+echo "corona tai";
+echo "babi";
  ?>
