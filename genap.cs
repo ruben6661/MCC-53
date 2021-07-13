@@ -6,7 +6,7 @@ namespace Genap {
 	{
 		public void Main()
 		{
-			int[] array = new int [12] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11,12};
+			int[] array = new int [10] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 			int i = 1;
 			Program program = new Program();
 			for (i = 1; i <= array.Length; i++){
